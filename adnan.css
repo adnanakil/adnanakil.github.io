@@ -1,0 +1,43 @@
+.butmenobuts {
+  font-family: 'helvetica neue';
+  margin-top: 10%;
+  margin-left: 10%;
+
+}
+
+.whattheycallme {
+ font-family: 'helvetica neue'; 
+}
+
+.dontnamethisdivacolor {
+  color: #B81E00;
+}
+
+.middleColumn {
+	width: 700px;
+	margin: 0 auto;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 21px;
+	line-height: 1.6;
+
+}
+
+.postTitle {
+	font-weight: bold;
+	padding-bottom: 10px;
+	line-height: 2.3em;
+}
+
+
+.myWatch {
+	margin-bottom: 50px;
+}
+
+body {
+  background-color: #EFEFEF;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
