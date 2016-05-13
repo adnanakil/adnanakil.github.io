@@ -41,3 +41,46 @@ a {
 	text-decoration: none;
 	color: black;
 }
+
+.thirdsColumn1 {
+	width: 300px;
+	margin-left: 15%;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 21px;
+	line-height: 1.6;
+
+}
+
+.thirdsColumn2 {
+	width: 300px;
+	margin-left: 35%;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 21px;
+	line-height: 1.6;
+
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.col-1 {width: 28%; margin-left: 28%; margin-right: 7%;}
+.col-2 {width: 28%;}
+
+
+[class*="col-"] {
+    float: left;
+
+}
+
+.designCaption {
+	text-align: center;
+	font-family: helvetica, arial, sans-serif;
+	opacity: 0.4;
+	font-weight: bold;
+}
+
+.pressColumn {
+	width: 900px;
+}
